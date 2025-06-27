@@ -47,7 +47,8 @@ The game features falling platforms and a countdown-based match start system.
 # Controls (Default)
 Player 1  
 - Move: W A S D  
-- Shoot: Space  
+- Shoot: Space
+
 Player 2  
 - Move: Arrow Keys  
 - Shoot: Enter  
